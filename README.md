@@ -1,4 +1,4 @@
-# what is this?
+# What it does?
 
 Fetches the link of the audio based on the search string from youtube.
 

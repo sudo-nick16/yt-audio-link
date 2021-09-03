@@ -14,11 +14,4 @@ const getAudioUrl = async(searchStr)=>{
     }
 }
 
-const func = async () => {
-    const song = await getAudioUrl('never gonna give you up')
-    console.log(song)
-}
-
-func();
-
 module.exports.ytml = getAudioUrl;

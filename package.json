@@ -1,0 +1,33 @@
+{
+  "name": "yt-audio-link",
+  "version": "1.0.0",
+  "description": "Fetches the link of the audio based on the search string from youtube.",
+  "main": "index.js",
+  "dependencies": {
+    "youtube-search-api": "^1.0.10",
+    "ytdl-core": "^4.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudo-nick16/yt-audio-link.git"
+  },
+  "keywords": [
+    "youtube",
+    "youtube-audio",
+    "youtube-audio-link",
+    "yt-audio-link",
+    "yt-audio",
+    "yt-music",
+    "yt-music-link"
+  ],
+  "author": "sudo-nick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudo-nick16/yt-audio-link/issues"
+  },
+  "homepage": "https://github.com/sudo-nick16/yt-audio-link#readme"
+}
