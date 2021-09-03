@@ -14,4 +14,4 @@ const getAudioUrl = async(searchStr)=>{
     }
 }
 
-module.exports.ytml = getAudioUrl;
+module.exports = getAudioUrl;
